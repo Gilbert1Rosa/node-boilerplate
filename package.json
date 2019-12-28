@@ -1,0 +1,19 @@
+{
+  "name": "node-boilerplate",
+  "version": "1.0.0",
+  "description": "Node JS backend boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gilbert1Rosa/node-boilerplate.git"
+  },
+  "author": "Gilbert Rosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gilbert1Rosa/node-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Gilbert1Rosa/node-boilerplate#readme"
+}
